@@ -1,0 +1,7 @@
+pandas
+os
+pyfiglet
+requests
+spotipy
+google-search-python
+pytz
