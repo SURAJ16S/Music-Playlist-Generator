@@ -25,6 +25,9 @@ This program generates music playlists based on genres, artists, or random selec
 
     ```
 3. Clone or download this repository.
+4. Install required packages
+   pip install -r requirements.txt
+
 
 ## Usage
 1. Run the program using Python:
