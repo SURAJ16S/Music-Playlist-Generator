@@ -1,5 +1,5 @@
 # Music-Playlist-Generator
-This program generates music playlists based on genres, artists, or random selections. It also provides functionalities like playing the song on YouTube and fetching top tracks from Spotify.This program also deals with proper error handling.Also Equiped with dataset connection
+This program generates music playlists based on genres, artists, or random selections. It also provides functionalities like playing the song on YouTube and fetching top tracks from Spotify.This program also deals with proper error handling.Also Equiped with dataset connection.
 
 ## Dependencies
 - Python 3.x
@@ -46,4 +46,6 @@ This program generates music playlists based on genres, artists, or random selec
 ## Example
 ```python
 python music_playlist_generator.py
-
+```
+fill free to modify 
+dataset can be modified further
